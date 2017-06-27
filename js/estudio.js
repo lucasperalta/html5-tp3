@@ -14,7 +14,7 @@
  
 
    // Agrego a la barra de navegacion la clase affix para que scrolee junto con la pagina
-    // ademas estan definidos el csscon lo cual se agrega el efecto de cambiar de color de fondo
+    // ademas estan definidos el cssc on lo cual se agrega el efecto de cambiar de color de fondo
     //de la barra de navegacion
    
     $('#mainNav').affix({
